@@ -1,0 +1,23 @@
+
+🔥 ¿Qué es una API?
+Una API (Application Programming Interface) es un conjunto de reglas y definiciones que permite que dos aplicaciones o sistemas se comuniquen entre sí.
+
+Piensa en una API como un mesero en un restaurante:
+
+Tú (cliente) haces un pedido.
+El mesero (API) lleva tu pedido a la cocina (servidor).
+La cocina prepara la comida y se la da al mesero.
+El mesero te entrega la comida (respuesta de la API).
+
+📌 Tipos de APIs
+Hay diferentes tipos de APIs, pero nos enfocaremos en las APIs RESTful, que son las más utilizadas en desarrollo web.
+
+📌 APIs RESTful siguen estas características:
+✅ Usan HTTP (como los sitios web).
+✅ Intercambian datos en formato JSON o XML.
+✅ Usan métodos HTTP estándar como:
+
+GET → Obtener datos
+POST → Enviar datos
+PUT → Actualizar datos
+DELETE → Eliminar datos
